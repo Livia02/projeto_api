@@ -32,3 +32,4 @@ Passo 3: Atualize o pip (gerenciador de pacotes) No terminal, execute `python-m 
 
 
 
+
