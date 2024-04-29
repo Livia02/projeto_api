@@ -26,10 +26,5 @@ antes de clicar em "Install Now'.
 Passo 2: Verifique a instalação Abra o terminal ou prompt de comando e digite python --version. 
 Se a instalação foi bem-sucedida, o sistema exibirá a versão do Python instalada.
 
-Passo 3: Atualize o pip (gerenciador de pacotes) No terminal, execute `python-m ensurepip-upgrade para garantir que o pip esteja atualizado.
-
-
-
-
-
-
+Passo 3: Atualize o pip (gerenciador de pacotes) 
+No terminal, execute `python-m ensurepip-upgrade para garantir que o pip esteja atualizado.
